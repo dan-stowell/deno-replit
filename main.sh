@@ -1,1 +1,2 @@
-echo Hello World
+chmod +x ./deno
+./deno main.ts
